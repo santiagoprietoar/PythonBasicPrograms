@@ -1,10 +1,5 @@
 '''
 Programa para elegir gustos de helados de Amazonia
-
-Pendiente 
-- loopear todo con un While True
-- poner un validador de input
-- definir acciones para cada menú y submenú
 '''
 
 # Importando RANDOM, después ver si importo solo alguna función específica
